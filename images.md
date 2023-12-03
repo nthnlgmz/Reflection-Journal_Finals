@@ -51,6 +51,7 @@ Engr. Edison Gonzalvo, RME, SO3, PCO - Safety Practitioner/Mechanical Engineer
 
     ![Gomez, Nathaniel A_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/ea94d0d4-0648-433e-ac2f-ab27dea3ec6b)
 Engr. John Paul Hernandez - Pollution Control Officer/Staff Safety Engineer at SunPower Philippines Manufacturing Limited
+![image](https://github.com/nthnlgmz/Reflection-Journal_Finals/assets/143614589/cd6ae634-3ef6-468f-be5c-4492b4b23024)
 
 
 14. Mechatronics to Software Engineering: A Path of Adaptation and Innovation
@@ -58,30 +59,32 @@ Engr. John Paul Hernandez - Pollution Control Officer/Staff Safety Engineer at S
 
     ![Nathaniel A  Gomez (1)](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/8a707b7e-00ca-450a-9f29-74ba6e9c0279)
 16. Introduction to DSA: Data  Structure and algorithms
+![image](https://github.com/nthnlgmz/Reflection-Journal_Finals/assets/143614589/319c24e9-7cd8-497a-b2de-6babba36948c)
+
     ![131](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/5fef9d32-08dd-4fe2-8648-c0c3b258bcbb)
-17. Unveiling the World of CNC Routers: A Comprehensive Guide to Computer Controlled Cutting
+18. Unveiling the World of CNC Routers: A Comprehensive Guide to Computer Controlled Cutting
     ![Form1-232_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/ddb77d21-2f1a-4e96-955f-1873382ff841)
-18. Fueling the Future: A Glimpse into Automotive Innovation
+19. Fueling the Future: A Glimpse into Automotive Innovation
     ![Nathaniel A  Gomez (2)](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/aac54c14-76be-4fab-9a2c-3a3a27087659)
-19. Breaking Barriers: Strategies for Handling Societal Pressure in Engineering
+20. Breaking Barriers: Strategies for Handling Societal Pressure in Engineering
     ![Nathaniel A  Gomez (3)](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/a61abdd7-6809-4b01-a2f9-6b96eaaa9f1b)
-20. 5 Whys: A Powerful Tool in Solving Problem
+21. 5 Whys: A Powerful Tool in Solving Problem
     ![Gomez, Nathaniel A](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/8f58bfe7-2161-445e-b3d1-f0e1ac924429)
-21. Overview and Opportunities in Industrial Maintenance
+22. Overview and Opportunities in Industrial Maintenance
     ![Mexe 01-Gomez_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/087952f7-4b6c-41b1-a740-f0d4dc868aaa)
-22.  ATP Process Engineer Background
+23.  ATP Process Engineer Background
     ![Certificate of Participation Nathaniel A  Gomez_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/1891946f-7647-4cd5-ab6d-cef01077ef86)
-23. Spark the Enthusiasm: Unleashing the Fun and Interactive Essence of Robotics.
+24. Spark the Enthusiasm: Unleashing the Fun and Interactive Essence of Robotics.
     ![CERT PARTICIPANTS_SPARK THE ENTHUSIASM_ UNLEASHING THE FUN AND INTERACTIVE ESSENCE OF ROBOTICS_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/f9ce0358-f3ec-4021-be55-2cd46dbf8032)
-24. Building Smarter Tomorrow: Smart Cities and Infrastructure Monitoring
+25. Building Smarter Tomorrow: Smart Cities and Infrastructure Monitoring
     ![Nathaniel A  Gomez (4)](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/8a2df2d0-2c97-4ebb-8d32-b46ec931aabc)
-25. MEXEportunity: Transforming Industries: Automation and Career Paths
+26. MEXEportunity: Transforming Industries: Automation and Career Paths
     ![Certificate of Participation (MEXEPortunity)_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/15ff8e61-0fcb-4a55-908f-aac9da65b56b)
-26. One Layer at A Time: A Closer Look at the Power of Additive Manufacturing
+27. One Layer at A Time: A Closer Look at the Power of Additive Manufacturing
     ![E-Certificate for Attendance_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/72a698de-f4bc-4dab-bf32-8dd3d3e3e0d8)
-27. Building the Culture of Safety: OSH Laws and You
+28. Building the Culture of Safety: OSH Laws and You
     ![E-CERTIFICATE OF APPRECIATION_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/1d223a67-7842-4333-be83-38396c17ea71)
-28. The Importance of Soft Skills for Engineering Graduates: Communication, Leadership, and Teamwork
+29. The Importance of Soft Skills for Engineering Graduates: Communication, Leadership, and Teamwork
     ![E-certificate Nathaniel A  Gomez_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/ce170b43-1417-4f41-89f7-251267a32e49)
 
 
