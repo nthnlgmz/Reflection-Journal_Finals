@@ -1,0 +1,509 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Hide the main scrollbar */
+}
+
+.main {
+  margin-top: 50px; /* Adjust the top margin to create space below the navbar */
+  width: 70%;
+  padding: 20px;
+  height: 100vh;
+  text-align: center; /* Center the content horizontally within the main container */
+  border-radius: 15px; /* Add rounded corners to the main container */
+  background-color: #fff; /* Set a background color if needed */
+  scrollbar-width: thin; /* Hide the scrollbar for Firefox */
+  scrollbar-color: transparent transparent; /* Hide the scrollbar for Firefox */
+  overflow: scroll; /* Add scrollbar for the main content */
+  background-image: url("https://dione.batstate-u.edu.ph/footer_bg.png");
+  background-repeat: no-repeat;
+  background-size: cover; /* Adjust the size to cover the entire viewport */
+  background-attachment: fixed;
+}
+.small-screen-message {
+  display: none;
+}
+.main img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-top: 20px; /* Add space to the top of the image */
+  border-radius: 15px; /* Add rounded corners to the image */
+  opacity: 0.7; /* Set the opacity (0.7 for 70%) */
+}
+
+/* Hide the scrollbar thumb for WebKit browsers like Chrome */
+.main::-webkit-scrollbar {
+  width: 0;
+}
+
+/* Hide the scrollbar thumb for Firefox */
+.main::-webkit-scrollbar-thumb {
+  background: transparent;
+}
+
+/* Justify the text */
+.main p {
+  text-align: justify;
+  font-family: "Crimson Text", serif;
+  font-size: 23px;
+  margin-bottom: 70px;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #333; /* Change the background color as needed */
+  color: #fff; /* Change the text color as needed */
+  padding: 10px 0;
+  display: flex;
+  align-items: center; /* Vertically center logo and text */
+  z-index: 999;
+}
+
+.navbar-logo img {
+  max-height: 40px; /* Adjust the maximum logo height as needed */
+  margin-left: 20px; /* Add margin to create space between the logo and text */
+}
+
+.navbar-text {
+  text-decoration: none;
+  color: #fff; /* Change the text color as needed */
+  font-size: 24px; /* Adjust the font size as needed */
+  font-weight: bold; /* Add or remove font weight as needed */
+  margin: 0 auto; /* Center the text horizontally within the navbar */
+}
+
+.container {
+  display: flex;
+  margin-top: -50px;
+}
+
+.sidebar h2 {
+  font-size: 18px;
+}
+
+/* Hide the scrollbar */
+.sidebar {
+  width: 30%;
+  background-color: #f0f0f0;
+  margin-top: 70px;
+  height: 100vh;
+  overflow: hidden; /* Hide the scrollbar for the sidebar */
+  padding: 20px;
+}
+
+/* Make the content scrollable within the sidebar */
+.sidebar-container {
+  max-height: 100%;
+  overflow-y: scroll; /* Add scrollbar only when content exceeds the max height */
+  scrollbar-width: none; /* Hide the scrollbar thumb for Firefox */
+}
+
+/* Hide the scrollbar thumb for WebKit browsers like Chrome */
+.sidebar-container::-webkit-scrollbar {
+  width: 0;
+}
+
+/* Hide the scrollbar thumb for Firefox */
+.sidebar-container::-webkit-scrollbar-thumb {
+  background: transparent;
+}
+.sidebar a {
+  text-decoration: none;
+}
+.sidebar ul {
+  padding: 0;
+  margin: 0;
+  padding-left: 20px;
+  text-align: justify;
+  list-style: disc;
+  margin-bottom: 70px;
+}
+.sidebar ul li a {
+  color: #333; /* Change the color to your desired font color */
+}
+.sidebar li {
+  margin-bottom: 10px;
+  font-size: 17px;
+}
+
+/* Highlight the active seminar link with a border */
+.sidebar a.current {
+  border-left: 4px solid #ff5733; /* Change the border color and width as needed */
+  padding-left: 10px; /* Add some padding to separate the border from text */
+  transition: border-color 0.3s; /* Add a smooth transition for the border color change */
+}
+
+/* Add a left-to-right color animation with padding and rounded corners for seminar links on hover */
+.sidebar a {
+  transition: color 0.3s; /* Add a smooth transition for text color change */
+  padding-left: 6px; /* Slightly increase padding to account for the border */
+}
+
+.sidebar a:hover {
+  display: inline-block; /* Make the link an inline block element */
+  background: linear-gradient(
+    to right,
+    #007bff 0%,
+    #007bff 100%
+  ); /* Left-to-right color animation */
+  background-size: 200% 100%; /* Double the size for a full transition effect */
+  background-position: 200% 0; /* Start the animation from the left */
+  border-radius: 5px; /* Add rounded corners */
+  color: #fff; /* Change the text color on hover */
+  transition: background-position 0.3s, color 0.3s; /* Smooth animation */
+  padding: 5px; /* Add padding to the link */
+}
+
+/* Add margin to the sentence below the link when hovering over it */
+.sidebar a:hover + p {
+  margin-left: 10px; /* Adjust the margin as needed */
+}
+
+.fixed-container {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background-color: #000;
+  border-top-left-radius: 15px; /* Add rounded corners to the left bottom side */
+  border-top-right-radius: 15px; /* Add rounded corners to the right top side */
+  padding: 10px;
+  color: #fff;
+  z-index: 999;
+  width: 100%;
+  text-align: center;
+}
+
+.fixed-container p {
+  font-size: 16px; /* Adjust the font size as needed */
+  margin: 0;
+}
+.fixed-container a {
+  text-decoration: none; /* Remove the underline from the link */
+  color: #fff; /* Set the text color to white */
+  transition: color 0.3s; /* Add a smooth transition for the text color change */
+}
+
+.fixed-container a:hover {
+  color: #007bff; /* Change the text color on hover */
+  transition: color 0.3s; /* Smooth animation */
+}
+
+.fixed-container a {
+  text-decoration: none; /* Remove the underline from the link */
+  color: #fff; /* Set the text color to white */
+  transition: color 0.3s; /* Add a smooth transition for the text color change */
+  position: relative; /* Position the pseudo-element relative to the link */
+}
+
+.fixed-container a:hover {
+  color: #007bff; /* Change the text color on hover */
+  transition: color 0.3s; /* Smooth animation */
+}
+
+.fixed-container a::before {
+  content: "Charges may apply"; /* Content to display */
+  position: absolute; /* Position absolutely relative to the link */
+  top: -18px; /* Adjust the vertical position */
+  left: 50%; /* Center the box horizontally */
+  transform: translateX(-50%); /* Center the box horizontally */
+  transform: translateY(-60%); /* Center the box horizontally */
+  opacity: 0; /* Start with opacity set to 0 */
+  transition: opacity 0.3s, visibility 0.3s; /* Add a smooth transition for opacity and visibility */
+  background-color: #007bff; /* Background color for the box */
+  color: #fff; /* Text color for the box */
+  padding: 5px 10px; /* Add padding to the box */
+  border-radius: 5px; /* Add rounded corners to the box */
+  visibility: hidden; /* Hide the box by default */
+}
+
+.fixed-container a:hover::before {
+  opacity: 1; /* Display the box on hover */
+  visibility: visible; /* Show the box on hover */
+  transition: opacity 0.3s, visibility 0.3s; /* Smooth animation */
+}
+
+/* For tablets */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .drawer a {
+    text-decoration: none;
+    color: white;
+  }
+
+  .drawer ul {
+    list-style-position: inside;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 70px;
+  }
+
+  .drawer a.current {
+    border-left: 4px solid #ff5733;
+    padding-left: 10px;
+    transition: border-color 0.3s;
+  }
+
+  .sidebar.active {
+    display: block;
+    width: 30%;
+  }
+
+  .sidebar {
+    display: none;
+  }
+
+  .navbar-burger {
+    display: block;
+    cursor: pointer;
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+
+  .bar {
+    width: 25px;
+    height: 3px;
+    background-color: #fff;
+    margin: 6px 0;
+    transition: 0.4s;
+  }
+
+  .main {
+    margin-top: 20px;
+    width: 100%;
+    padding: 20px;
+    height: 100vh;
+    text-align: center;
+    border-radius: 15px;
+    background-color: #fff;
+    scrollbar-width: thin;
+    scrollbar-color: transparent transparent;
+    overflow: scroll;
+    background-image: url("https://dione.batstate-u.edu.ph/footer_bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+  .navbar-logo img {
+    max-height: 40px;
+  }
+
+  .navbar-text {
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0 auto;
+  }
+
+  .drawer {
+    position: fixed;
+    top: 0;
+    left: -290px;
+    width: 250px;
+    height: 100%;
+    background-color: #333;
+    color: #fff;
+    transition: left 0.3s;
+    z-index: 999;
+    padding: 20px;
+  }
+
+  .drawer h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
+  .drawer ul li {
+    margin-bottom: 10px;
+  }
+
+  .drawer.open {
+    left: 0;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .drawer {
+    display: none;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+profile {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+profile .card {
+  width: 600px;
+  height: 300px;
+  background-color: var(--white);
+  display: flex;
+  border-radius: 12px;
+}
+profile .card .card__img,
+profile .card .card__content {
+  width: 50%;
+}
+profile .card .card__img picture {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+profile .card .card__img picture img {
+  width: 100%;
+  height: 100%;
+  border-radius: 12px 0px 0px 12px;
+}
+
+profile .card .card__content {
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 0px;
+}
+profile .card .card__content .card__tag {
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 20px;
+  margin-left: 20px;
+  color: var(--dark-grayish-blue);
+}
+profile .card .card__content .card__title {
+  font-family: "Fraunces", serif;
+  text-transform: capitalize;
+}
+profile .card .card__content .card__desc {
+  font-size: 15px;
+  color: var(--dark-grayish-blue);
+  line-height: 24px;
+  margin-left: 20px;
+}
+profile .card .card__content .card__price {
+  display: flex;
+  align-items: center;
+  column-gap: 20px;
+}
+profile .card .card__content .card__price h1 {
+  color: var(--dark-cyan);
+  font-family: "Fraunces", serif;
+}
+profile .card .card__content .card__price s {
+  font-size: 14px;
+  color: var(--dark-grayish-blue);
+}
+profile .card .card__content .card__btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 10px;
+  background-color: var(--dark-cyan);
+  padding: 14px;
+  outline: none;
+  border: 0;
+  border-radius: 10px;
+  color: var(--white);
+  font-weight: 700;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 200ms linear;
+}
+profile .card .card__content .card__btn:hover {
+  background-color: var(--very-dark-blue);
+}
+
+/* For tablets and small screens (max-width: 768px) */
+@media (max-width: 768px) {
+  .drawer {
+    display: none;
+  }
+  .main {
+    display: none;
+  }
+  .sidebar {
+    display: none;
+  }
+  body {
+    background-image: url("https://dione.batstate-u.edu.ph/footer_bg.png");
+    background-repeat: no-repeat;
+    background-size: cover; /* Adjust the size to cover the entire viewport */
+    background-attachment: fixed;
+  }
+  .small-screen-message {
+    display: block;
+    text-align: center;
+    font-size: 16px;
+    color: red;
+    padding: 10px; /* Add padding around the message */
+    background-color: #f0f0f0; /* Set the background color */
+    border-radius: 500px; /* Add rounded corners */
+    margin-top: 300px;
+  }
+}
+
+.hover-image {
+  transition: transform 0.3s; /* Add a smooth transition effect */
+}
+
+.hover-image:hover {
+  transform: scale(
+    1.1
+  ); /* Increase the size on hover (you can adjust the scale factor as needed) */
+  /* You can also add other CSS properties for more advanced hover effects like changing the opacity, adding a border, etc. */
+}
+.card__content {
+  transition: transform 0.3s;
+}
+
+.card__content:hover {
+  transform: scale(
+    1.1
+  ); /* Increase the size on hover (you can adjust the scale factor as needed) */
+  /* You can customize the hover effect for .card__content as needed. */
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: -100%; /* Initially hide the overlay to the left */
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    to right,
+    rgba(128, 128, 128, 1) 0%,
+    rgba(128, 128, 128, 0) 80%,
+    rgba(128, 128, 128, 0) 100%
+  );
+  opacity: 0; /* Initial opacity set to 0 */
+  transition: left 0.5s, opacity 0.5s; /* Add opacity transition */
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column; /* Stack content vertically */
+  align-items: flex-start; /* Adjust text alignment to the left */
+  justify-content: flex-start; /* Adjust text alignment to the top */
+  padding: 20px; /* Add padding for spacing */
+
+  font-size: 24px;
+  color: white;
+}
+
+.certificate-container:hover .overlay {
+  left: 0; /* Slide the overlay in from the left on hover */
+  opacity: 1; /* Set opacity to 0.7 on hover */
+}
+.certificate-container {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+}
