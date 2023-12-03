@@ -64,6 +64,7 @@ Engr. John Paul Hernandez - Pollution Control Officer/Staff Safety Engineer at S
     ![131](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/5fef9d32-08dd-4fe2-8648-c0c3b258bcbb)
 18. Unveiling the World of CNC Routers: A Comprehensive Guide to Computer Controlled Cutting
 ![image](https://github.com/nthnlgmz/Reflection-Journal_Finals/assets/143614589/a9dc5333-26cc-4354-ade8-0615d2383ce0)
+![image](https://github.com/nthnlgmz/Reflection-Journal_Finals/assets/143614589/076b6b8b-3248-4c91-80c3-cbf48f4dedb6)
 
     ![Form1-232_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/ddb77d21-2f1a-4e96-955f-1873382ff841)
 20. Fueling the Future: A Glimpse into Automotive Innovation
@@ -87,14 +88,18 @@ Engr. John Paul Hernandez - Pollution Control Officer/Staff Safety Engineer at S
 29. Spark the Enthusiasm: Unleashing the Fun and Interactive Essence of Robotics.
     ![CERT PARTICIPANTS_SPARK THE ENTHUSIASM_ UNLEASHING THE FUN AND INTERACTIVE ESSENCE OF ROBOTICS_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/f9ce0358-f3ec-4021-be55-2cd46dbf8032)
 30. Building Smarter Tomorrow: Smart Cities and Infrastructure Monitoring
+    ![image](https://github.com/nthnlgmz/Reflection-Journal_Finals/assets/143614589/24afa18d-9ae6-495b-9c66-074e4162b790)
+
     ![Nathaniel A  Gomez (4)](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/8a2df2d0-2c97-4ebb-8d32-b46ec931aabc)
 31. MEXEportunity: Transforming Industries: Automation and Career Paths
-    ![Certificate of Participation (MEXEPortunity)_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/15ff8e61-0fcb-4a55-908f-aac9da65b56b)
-32. One Layer at A Time: A Closer Look at the Power of Additive Manufacturing
+![image](https://github.com/nthnlgmz/Reflection-Journal_Finals/assets/143614589/c03ed483-1262-495d-8425-76afaaefc5fb)
+
+     ![Certificate of Participation (MEXEPortunity)_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/15ff8e61-0fcb-4a55-908f-aac9da65b56b)
+33. One Layer at A Time: A Closer Look at the Power of Additive Manufacturing
     ![E-Certificate for Attendance_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/72a698de-f4bc-4dab-bf32-8dd3d3e3e0d8)
-33. Building the Culture of Safety: OSH Laws and You
+34. Building the Culture of Safety: OSH Laws and You
     ![E-CERTIFICATE OF APPRECIATION_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/1d223a67-7842-4333-be83-38396c17ea71)
-34. The Importance of Soft Skills for Engineering Graduates: Communication, Leadership, and Teamwork
+35. The Importance of Soft Skills for Engineering Graduates: Communication, Leadership, and Teamwork
     ![E-certificate Nathaniel A  Gomez_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/ce170b43-1417-4f41-89f7-251267a32e49)
 ![image](https://github.com/nthnlgmz/Reflection-Journal_Finals/assets/143614589/5d00e1b7-6747-4b4c-ace0-da52550f486f)
 
