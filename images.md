@@ -71,25 +71,28 @@ Engr. John Paul Hernandez - Pollution Control Officer/Staff Safety Engineer at S
 
     ![Nathaniel A  Gomez (2)](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/aac54c14-76be-4fab-9a2c-3a3a27087659)
 22. Breaking Barriers: Strategies for Handling Societal Pressure in Engineering
+![image](https://github.com/nthnlgmz/Reflection-Journal_Finals/assets/143614589/f8e48736-cf8b-484a-bad6-6d1a74230f84)
+
     ![Nathaniel A  Gomez (3)](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/a61abdd7-6809-4b01-a2f9-6b96eaaa9f1b)
-23. 5 Whys: A Powerful Tool in Solving Problem
+24. 5 Whys: A Powerful Tool in Solving Problem
     ![Gomez, Nathaniel A](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/8f58bfe7-2161-445e-b3d1-f0e1ac924429)
-24. Overview and Opportunities in Industrial Maintenance
+25. Overview and Opportunities in Industrial Maintenance
     ![Mexe 01-Gomez_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/087952f7-4b6c-41b1-a740-f0d4dc868aaa)
-25.  ATP Process Engineer Background
+26.  ATP Process Engineer Background
     ![Certificate of Participation Nathaniel A  Gomez_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/1891946f-7647-4cd5-ab6d-cef01077ef86)
-26. Spark the Enthusiasm: Unleashing the Fun and Interactive Essence of Robotics.
+27. Spark the Enthusiasm: Unleashing the Fun and Interactive Essence of Robotics.
     ![CERT PARTICIPANTS_SPARK THE ENTHUSIASM_ UNLEASHING THE FUN AND INTERACTIVE ESSENCE OF ROBOTICS_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/f9ce0358-f3ec-4021-be55-2cd46dbf8032)
-27. Building Smarter Tomorrow: Smart Cities and Infrastructure Monitoring
+28. Building Smarter Tomorrow: Smart Cities and Infrastructure Monitoring
     ![Nathaniel A  Gomez (4)](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/8a2df2d0-2c97-4ebb-8d32-b46ec931aabc)
-28. MEXEportunity: Transforming Industries: Automation and Career Paths
+29. MEXEportunity: Transforming Industries: Automation and Career Paths
     ![Certificate of Participation (MEXEPortunity)_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/15ff8e61-0fcb-4a55-908f-aac9da65b56b)
-29. One Layer at A Time: A Closer Look at the Power of Additive Manufacturing
+30. One Layer at A Time: A Closer Look at the Power of Additive Manufacturing
     ![E-Certificate for Attendance_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/72a698de-f4bc-4dab-bf32-8dd3d3e3e0d8)
-30. Building the Culture of Safety: OSH Laws and You
+31. Building the Culture of Safety: OSH Laws and You
     ![E-CERTIFICATE OF APPRECIATION_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/1d223a67-7842-4333-be83-38396c17ea71)
-31. The Importance of Soft Skills for Engineering Graduates: Communication, Leadership, and Teamwork
+32. The Importance of Soft Skills for Engineering Graduates: Communication, Leadership, and Teamwork
     ![E-certificate Nathaniel A  Gomez_page-0001](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/ce170b43-1417-4f41-89f7-251267a32e49)
+![image](https://github.com/nthnlgmz/Reflection-Journal_Finals/assets/143614589/5d00e1b7-6747-4b4c-ace0-da52550f486f)
 
 
 
