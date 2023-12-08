@@ -119,6 +119,9 @@ Engr. John-Rev Fronda ![Certificates_page-0233](https://github.com/nthnlgmz/Refl
 ![image](https://github.com/nthnlgmz/Reflection-Journal_Finals/assets/143614589/58921499-2d8e-4ae2-b75d-b91fe32a1352)
 ![MEXES-MEXUS_ E-Certificate_page-0001](https://github.com/nthnlgmz/Reflection-Journal_Finals/assets/143614589/ef228733-f520-4020-9310-3eb860a6fa00)
 
+![image](https://github.com/nthnlgmz/Reflection-Journal_Finals/assets/143614589/32dee84f-de4a-46a9-90b5-31c7a28c922e)
+
+![Overview of IoT Technologies (1)_page-0001](https://github.com/nthnlgmz/Reflection-Journal_Finals/assets/143614589/e6529f71-b417-42a4-b002-83d5bad5021e)
 
 
 
