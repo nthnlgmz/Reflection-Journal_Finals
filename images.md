@@ -113,6 +113,9 @@ Engr. John-Rev Fronda ![Certificates_page-0233](https://github.com/nthnlgmz/Refl
 
 ![Nathaniel A  Gomez (5)](https://github.com/nthnlgmz/Reflection-Journal_Finals/assets/143614589/e55dfef2-0747-44b8-8bf0-3ef147fb0032)
 
+![image](https://github.com/nthnlgmz/Reflection-Journal_Finals/assets/143614589/26d2e2f9-8080-403e-841a-878bc208a0b7)
+![image](https://github.com/nthnlgmz/Reflection-Journal_Finals/assets/143614589/11fbced3-d45a-4ab6-9b3f-eb3a99b5e893)
+
 
 
 
