@@ -104,7 +104,8 @@ Engr. John Paul Hernandez - Pollution Control Officer/Staff Safety Engineer at S
 ![image](https://github.com/nthnlgmz/Reflection-Journal_Finals/assets/143614589/5d00e1b7-6747-4b4c-ace0-da52550f486f)
 
 
-
+Innovative Leadership in Engineering: Connecting Government, Research, and Technological Frontiers
+![GOMEZ](https://github.com/nthnlgmz/Reflection-Journal_Finals/assets/143614589/43fd477d-1416-463a-b0a2-705c65db2d58)
 
 
 
