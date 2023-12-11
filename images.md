@@ -4,6 +4,7 @@ L1 Norm
 ![Gomez, Nathaniel A  (1)](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/c592afb5-0370-4ac2-b4b1-e3a90006ff9e)
 Engineering Crossroads: Navigating Career Shifts from Mechatronics to Web Development
 ![331](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/911aee6a-1786-4492-bbac-2d536cffd829)
+![image](https://github.com/nthnlgmz/Reflection-Journal_Finals/assets/143614589/b0603a57-63e2-40f1-8497-093beaba2092)
 
 
 1. BOSH Guidelines for Engineers: Safety MEXEasures in the Midst of CrICEsis![BOSH Guidelines for Engineers: Safety MEXEasures in the Midst of CrICEsis](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/c5a89efe-89f4-406c-a0a3-c8ece2d78e84) 
