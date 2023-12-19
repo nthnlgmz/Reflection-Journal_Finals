@@ -6,6 +6,7 @@ Engineering Crossroads: Navigating Career Shifts from Mechatronics to Web Develo
 ![331](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/911aee6a-1786-4492-bbac-2d536cffd829)
 ![image](https://github.com/nthnlgmz/Reflection-Journal_Finals/assets/143614589/b0603a57-63e2-40f1-8497-093beaba2092)
 
+![no-results](https://github.com/nthnlgmz/Reflection-Journal_Finals/assets/143614589/0dbdf27f-9fb2-4906-9ce9-2870b0a771b0)
 
 1. BOSH Guidelines for Engineers: Safety MEXEasures in the Midst of CrICEsis![BOSH Guidelines for Engineers: Safety MEXEasures in the Midst of CrICEsis](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/c5a89efe-89f4-406c-a0a3-c8ece2d78e84) 
 Mr. Fortunato D. Barroga Jr. - Safety Officer at Al Ahlia
